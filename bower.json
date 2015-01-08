@@ -6,6 +6,7 @@
   },
   "devDependencies": {
     "angular": "1.2.21",
-    "bootstrap": "~3.3.1"
+    "bootstrap": "~3.3.1",
+    "angular-route": "1.2.21"
   }
 }
