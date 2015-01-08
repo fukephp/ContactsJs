@@ -1,0 +1,11 @@
+{
+  "name": "contacts",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.2.21"
+  },
+  "devDependencies": {
+    "angular": "1.2.21",
+    "bootstrap": "~3.3.1"
+  }
+}
